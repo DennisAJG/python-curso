@@ -1,21 +1,20 @@
-""" 
-Python = Linguagem de programação
-Tipo de tipagem = Dinâmica / Forte 
-str -> string -> texto 
-Strings são textos que estão dentro de aspas
-
 """
-
-# Aspas simples 
-print('Dennis Augusto')
-# Aspas duplas 
-print("Dennis Augusto")
+    Iso é uma Docstring
+    Python = Linguagem de Programação
+    Tipo de tipagem = Dinâmica / Forte
+    str -> string -> texto
+    Strings são textos que estão dentro de aspas
+"""
+# Aspas simples 'str'
+print ('Dennis')
+# Aspas duplas "str"
+print ("Dennis")
 # Escape 
-print("Dennis \"Augusto")
-print("Dennis \"Augusto\"")
+print ("dennis 'Gusmão'")
+print ("Dennis \"Gusmão\" ")
+# r 
+print(r"Dennis \"Gusmão\" ")
 
-print('Dennis "Augusto"')
-print("Dennis 'Augusto'")
-# r
-print(r"Dennis \"Augusto\"") # usado mais para expressões regulares
+
+
 
